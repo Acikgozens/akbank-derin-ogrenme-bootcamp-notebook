@@ -1,0 +1,1 @@
+# akbank-derin-ogrenme-bootcamp-notebook
